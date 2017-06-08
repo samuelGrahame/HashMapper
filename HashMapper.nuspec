@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>HashMapper</id>
+    <version>0.0.0.1</version>
+    <title>HashMapper (For Bridge.Net)</title>
+    <authors>SG - BL - PH</authors>
+    <owners>SG - BL - PH</owners>
+    <projectUrl>https://github.com/samuelGrahame/HashMapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HashMapper (For Bridge.Net) - HashMapper for Bridge
+</description>    
+    <copyright>Copyright 2017</copyright>
+    <tags>Bridge Bridge.net Javascript Forms ExpressCraft C# UI jQuery HTML Bootstrap</tags>
+	<dependencies>
+		<dependency id="Bridge" version="[15.7.0]"/>		
+		<dependency id="Bridge.Html5" version="[15.7.0]"/>
+	  </dependencies>
+  </metadata>
+  <files>
+	<file src="HashMapper\bin\Release\HashMapper.dll" target="lib\HashMapper.dll" />		
+  </files>
+ 
+</package>
